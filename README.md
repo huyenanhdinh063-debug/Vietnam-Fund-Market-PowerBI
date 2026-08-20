@@ -1,4 +1,4 @@
-# 🇻🇳 Vietnam Fund Market — Power BI Dashboard
+# 🇻🇳 Vietnam Fund Market - Power BI Dashboard
 
 Power BI dashboard analyzing the Vietnamese fund market, with a focus on fund structure, size, performance, and risk-adjusted returns.
 
