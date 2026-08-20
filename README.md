@@ -2,7 +2,7 @@
 
 Power BI dashboard analyzing the Vietnamese fund market, with a focus on fund structure, size, performance, and risk-adjusted returns.
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ### Overview
 ![Overview](screenshots/overview.png)
@@ -13,7 +13,7 @@ Power BI dashboard analyzing the Vietnamese fund market, with a focus on fund st
 ### Performance & Risk Analysis
 ![Performance](screenshots/performance.png)
 
-## 🔍 Key Analysis
+## Key Analysis
 
 - Overview of Vietnam's domestic and foreign fund market
 - Fund classification by investment type
@@ -24,18 +24,18 @@ Power BI dashboard analyzing the Vietnamese fund market, with a focus on fund st
 - Maximum Drawdown analysis
 - Risk-adjusted performance comparison
 
-## 🛠️ Tools
+## Tools
 
 - Power BI
 - DAX
 - Power Query
 - Excel
 
-## 📁 Files
+## Files
 
 - `NV QUY.pbix` — Power BI dashboard
 - `screenshots/` — Dashboard screenshots
 
-## 🎯 Objective
+## Objective
 
 The project aims to provide a visual and analytical overview of the Vietnamese fund market and support comparison between different investment products based on return and risk.
